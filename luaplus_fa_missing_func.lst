@@ -1,0 +1,27 @@
+
+
+_lua_cpcall                    equ 0x
+_lua_dofile                    equ 0x
+_lua_dump                      equ 0x
+_lua_equal                     equ 0x
+_lua_getdefaultmemoryfunctions equ 0x
+_lua_getdefaultmetatable       equ 0x
+_lua_isuserdata                equ 0x
+_luaL_ref                      equ 0x
+_luaL_unref                    equ 0x
+_lua_newuserdata               equ 0x
+_luaopen_io                    equ 0x
+_luaopen_table                 equ 0x
+_lua_pushstdcallcfunction      equ 0x
+_lua_pushtobject@LuaPlus       equ 0x
+_lua_pushupvalues              equ 0x
+_lua_safetostring              equ 0x
+_lua_setdefaultmemoryfunctions equ 0x
+_lua_setfatalerrorfunction     equ 0x
+_lua_setminimumauxspace        equ 0x
+_lua_setminimumglobaltablesize equ 0x
+_lua_setminimumstringtablesize equ 0x
+_lua_suspended                 equ 0x
+_lua_tocfunction               equ 0x
+_lua_typename                  equ 0x
+_lua_version                   equ 0x
